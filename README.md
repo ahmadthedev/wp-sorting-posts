@@ -1,5 +1,7 @@
 # WP Sorting Posts
 
+<b>Tutorial:</b> https://www.ahmedhere.com/tutorials/wordpress/how-to-create-wordpress-dropdown-posts-sorting-like-woocommerce/
+
 In this repository I'll show you how can you sort posts through select option from frontend.
 
 First we'll create select form and pass the values in option field like this
